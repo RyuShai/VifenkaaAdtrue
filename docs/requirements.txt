@@ -1,0 +1,5 @@
+IDE: Android studio Artic fox 2020.3 path 4
+Android device: 
+    + x96-x4
+    + logitech webcam c615
+Host OS: window 10 | window 11
